@@ -1,0 +1,2 @@
+# yirmiikimart
+Bu ilk repositoryim 
